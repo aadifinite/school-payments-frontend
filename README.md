@@ -40,4 +40,14 @@ npm run preview
 - Works on Netlify/Vercel. Add environment variable `VITE_API_URL`.
 
 ## Screenshots
-_Add screenshots here._
+<img width="1887" height="833" alt="image" src="https://github.com/user-attachments/assets/0911b1dd-bb2a-4a38-9e8d-4d7e06a53d8f" />
+
+<img width="1910" height="952" alt="image" src="https://github.com/user-attachments/assets/a0dcc707-a902-416e-aa8b-50744e05650c" />
+
+<img width="1916" height="403" alt="image" src="https://github.com/user-attachments/assets/73fd3c36-fbda-4f2a-aa72-d77eacfdcbc2" />
+
+<img width="1608" height="602" alt="image" src="https://github.com/user-attachments/assets/b772f8fd-b515-4863-8911-6c9790514b27" />
+
+<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/c75db72c-fa67-4342-808e-1471c13f5840" />
+
+
